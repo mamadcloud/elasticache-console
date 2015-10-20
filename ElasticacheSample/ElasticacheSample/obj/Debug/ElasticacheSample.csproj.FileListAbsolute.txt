@@ -1,0 +1,14 @@
+C:\Kerja Freelance\ElasticacheSample\ElasticacheSample\bin\Debug\ElasticacheSample.exe.config
+C:\Kerja Freelance\ElasticacheSample\ElasticacheSample\bin\Debug\ElasticacheSample.exe
+C:\Kerja Freelance\ElasticacheSample\ElasticacheSample\bin\Debug\ElasticacheSample.pdb
+C:\Kerja Freelance\ElasticacheSample\ElasticacheSample\bin\Debug\Amazon.ElastiCacheCluster.dll
+C:\Kerja Freelance\ElasticacheSample\ElasticacheSample\bin\Debug\Enyim.Caching.dll
+C:\Kerja Freelance\ElasticacheSample\ElasticacheSample\bin\Debug\Amazon.ElastiCacheCluster.pdb
+C:\Kerja Freelance\ElasticacheSample\ElasticacheSample\bin\Debug\Amazon.ElastiCacheCluster.xml
+C:\Kerja Freelance\ElasticacheSample\ElasticacheSample\bin\Debug\Enyim.Caching.pdb
+C:\Kerja Freelance\ElasticacheSample\ElasticacheSample\bin\Debug\Enyim.Caching.xml
+C:\Kerja Freelance\ElasticacheSample\ElasticacheSample\obj\Debug\ElasticacheSample.exe
+C:\Kerja Freelance\ElasticacheSample\ElasticacheSample\obj\Debug\ElasticacheSample.pdb
+C:\Kerja Freelance\elasticache-console\ElasticacheSample\ElasticacheSample\bin\Debug\ElasticacheSample.exe.config
+C:\Kerja Freelance\elasticache-console\ElasticacheSample\ElasticacheSample\obj\Debug\ElasticacheSample.exe
+C:\Kerja Freelance\elasticache-console\ElasticacheSample\ElasticacheSample\obj\Debug\ElasticacheSample.pdb
